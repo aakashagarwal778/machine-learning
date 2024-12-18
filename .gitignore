@@ -1,7 +1,7 @@
 # macOS system files
 .DS_Store
 
-# IDE config files
+# IDE config file
 .idea/
 
 # Python virtual environment
