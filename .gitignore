@@ -4,10 +4,10 @@
 # IDE config file
 .idea/
 
-# Python virtual environment
+# 1. Python virtual environment
 .venv/
 
-# Python cache files
+# 1. Python cache files
 __pycache__/
 *.pyc
 *.pyo
